@@ -1,0 +1,14 @@
+.idea
+node_modules
+coverage
+flow-oms-service.iml
+*logdoc
+doc/
+playGround.js
+coverage
+mochawesome-reports
+npm-debug.log
+.tern-port
+*.iml
+data
+artifacts
